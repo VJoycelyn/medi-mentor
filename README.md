@@ -12,7 +12,7 @@ A static promotional site for MediMentor – an AI-powered WhatsApp health coach
 1. Clone the repo
 2. Push to GitHub
 3. Enable GitHub Pages (in repo Settings > Pages > choose branch `main` and folder `/root`)
-4. Visit: `https://yourusername.github.io/mediMentor-site`
+4. Visit: `https://VJoycelyn.github.io/mediMentor-site`
 
 ## 📧 Contact
 Want to collaborate or fund?  
